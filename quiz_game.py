@@ -1,6 +1,6 @@
 """
 This game is a quiz game where user answers questions. 
-At the end the program shows the result with total number of correct answers and percentage of the grade the user got.
+At the end the program shows the result with total number of correct answers and percentage of the grade the user got
 """
 
 print ("Welcome to my computer quiz!")
